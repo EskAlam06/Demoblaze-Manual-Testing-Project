@@ -20,7 +20,7 @@ This is a personal manual testing project for Demoblaze, designed to showcase ma
 
 • Testing Tools: Microsoft Excel (Test Cases, RTM, Bug Reports)
 
-• Bug Tracking: Jira (Planned for later integration)
+• Bug Tracking: Jira 
 
 • Environment: Windows 11, Chrome, Firefox
 
